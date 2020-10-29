@@ -1,3 +1,6 @@
+###Note : Unzip the data in the data folder before runnning this code.
+###       Github does not allow file upload more than 25mb.
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

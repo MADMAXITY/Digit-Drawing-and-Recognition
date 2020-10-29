@@ -1,7 +1,6 @@
 import pygame, sys
 from pygame.locals import *
 import cv2
-
 import numpy as np
 import tensorflow
 import keras

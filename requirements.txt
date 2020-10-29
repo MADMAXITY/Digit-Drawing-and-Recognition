@@ -1,0 +1,8 @@
+pygame
+tensorflow
+keras
+pandas
+numpy
+matplotlib
+sklearn
+opencv (contrib)
